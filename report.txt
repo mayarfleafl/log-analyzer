@@ -1,23 +1,23 @@
 LOG ANALYSIS REPORT
 *******************
 
-Total Lines: 38
-Invalid Lines: 7
+Total Lines: 2041
+Invalid Lines: 40
 
 Level:
-INFO: 16
-ERROR: 9
-WARNING: 6
+INFO: 1405
+ERROR: 203
+WARNING: 393
 
 Top 3 Errors:
-Database timeout: 5
-Unauthorized: 2
-Service unavailable: 2
+Database timeout: 35
+Internal server error: 33
+Unauthorized: 31
 
 Top 3 Warnings:
-High memory usage: 2
-Too many requests: 2
-Disk almost full: 1
+High memory usage: 72
+CPU usage high: 69
+Too many requests: 67
 
 Most active user:
-User 12 (5 actions)
+User 42 (18 actions)
